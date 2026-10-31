@@ -79,11 +79,6 @@ A comunicação utiliza o broker EMQX Cloud. A implementação final deverá val
 - [ ] Seleção entre modo manual e automático.
 - [ ] Configuração dos limites de umidade pelo aplicativo.
 - [ ] Irrigação automática com limites de início e parada.
-- [ ] Desligamento por tempo máximo de segurança.
-- [ ] Persistência das configurações na ESP32-C3.
-- [ ] Tratamento de falhas de sensores e comunicação.
-
-Os itens acima representam o escopo planejado e devem ser marcados como concluídos somente após a implementação e os testes correspondentes.
 
 ## Status do desenvolvimento
 
